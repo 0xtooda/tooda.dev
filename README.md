@@ -3,6 +3,7 @@
 Source code for my personal website.
 
 🌐 **Live site:** https://tooda.dev
+<img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/adaded60-7bca-4ef6-a997-74f3ff4dcade" />
 
 ## About
 
